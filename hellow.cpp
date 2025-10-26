@@ -1,3 +1,5 @@
+//This is a simple text-based account creation and login project (it is my first C++ project so far)
+
 #include <iostream>
 
 int main() {
